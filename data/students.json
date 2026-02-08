@@ -1,5 +1,11 @@
 [
   {
+    "name": "Khaled Alowd",
+    "cohort": 2,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Khaled+Alowd"
+  },
+  
+  {
     "name": "Nasser Ahmed",
     "cohort": 2,
     "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Nasser+Ahmed"
@@ -20,3 +26,5 @@
     "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Hawra+Almutawa"
   }
 ]
+
+
