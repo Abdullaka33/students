@@ -25,6 +25,12 @@
     "cohort": 2,
     "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Hawra+Almutawa"
   }
+  ,
+  {
+    "name": "Sarah Rashed",
+    "cohort": 2,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Sarah+Rashed"
+  }
 ]
 
 
